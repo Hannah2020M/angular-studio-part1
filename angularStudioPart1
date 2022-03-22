@@ -1,0 +1,8 @@
+Launch Visual Studio Code. If you created an angular_practice folder earlier in the chapter, use the File menu to open it. If you did not create a practice folder, make one!
+
+Open a terminal at the root of your angular_practice folder.
+
+Create a new Angular project by running ng new angular-studio-part1.
+
+When prompted about using routing, enter "N" for No.
+When prompted to select the stylesheet format, select CSS
